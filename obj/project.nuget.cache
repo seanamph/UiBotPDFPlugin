@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0e5irhpA2kXTOww59CQifYp92QcbvfZ5Z4QNir3db/RLIkOk0AToB/AVr9oNz1qrUJXryIle0DWIC83N3PY2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sean\\Downloads\\extend-example-master\\DotNet\\UiBotPDFPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
+    "C:\\Users\\Sean\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\Sean\Downloads\extend-example-master\DotNet\Debug\UiBotPlugin.dll
+C:\Users\Sean\Downloads\extend-example-master\DotNet\Debug\UiBotPlugin.pdb
+C:\Users\Sean\Downloads\extend-example-master\DotNet\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sean\Downloads\extend-example-master\DotNet\Debug\itextsharp.dll
+C:\Users\Sean\Downloads\extend-example-master\DotNet\Debug\DotNetAdapter.dll
+C:\Users\Sean\Downloads\extend-example-master\DotNet\Debug\Newtonsoft.Json.dll
+C:\Users\Sean\Downloads\extend-example-master\DotNet\obj\Debug\UiBotPlugin.csprojAssemblyReference.cache
+C:\Users\Sean\Downloads\extend-example-master\DotNet\obj\Debug\UiBotPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Downloads\extend-example-master\DotNet\obj\Debug\UiBotPlugin.csproj.CopyComplete
+C:\Users\Sean\Downloads\extend-example-master\DotNet\obj\Debug\UiBotPlugin.dll
+C:\Users\Sean\Downloads\extend-example-master\DotNet\obj\Debug\UiBotPlugin.pdb
